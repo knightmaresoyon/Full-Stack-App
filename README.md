@@ -1,2 +1,2 @@
 # Full-Stack-App
-Flutter full stack app
+Flutter Full Stack App
